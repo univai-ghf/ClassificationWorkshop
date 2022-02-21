@@ -13,6 +13,6 @@ Most of the real world problems are solved through classification. We will give 
 - Explain
 - Exercises
 
-Workshop: [![Open Workshop In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Gn2OxabmuYM516qQTZusaAbskLUfSw58?usp=sharing)
+Workshop: [![Open Workshop In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/univai-ghf/ClassificationWorkshop/blob/main/Classification_main_and_homework.ipynb)
 
 At the end of this workshop you will enhance your repertoire from understanding regression to being able to use a variety of models in classification problems. Additionally you’ll understand which metrics to use to evaluate the performance of your models.
